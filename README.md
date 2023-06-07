@@ -26,4 +26,4 @@ Maker Faire Prague, 2023
 
 12. [M5 Stack CoreS3 Demo](https://github.com/m5stack/M5CoreS3/tree/main)
 
-13. [Arduino Memory Game](https://github.com/PilnyTomas/arduino-memory-game)
+13. [Arduino Memory Game](https://github.com/PilnyTomas/arduino-memory-game/tree/maker_fair)
