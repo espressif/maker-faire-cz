@@ -4,7 +4,7 @@ Maker Faire Prague, 2023
 ------------------------
 1. [ESP32-S3 Multiple LCD Demo](https://github.com/espzav/Multiple-LCD-Demo)
 
-2. [Pac-man Demo](https://github.com/SuGlider/Pacman)
+2. [Pac-Man Demo](https://github.com/SuGlider/Pacman)
 
 3. [ESP-Box Default Demo](https://github.com/espressif/esp-box/tree/master/examples/factory_demo)
 
@@ -12,7 +12,7 @@ Maker Faire Prague, 2023
 
 5. [ESP32-S3 EV Board LVGL Demo](https://github.com/espressif/esp-bsp/tree/master/examples/display_lvgl_demos)
 
-6. [ESP-Box Brick Game]
+6. [ESP-Box Brick Game](https://doc.embedded-wizard.de/getting-started-esp32)
 
 7. [ESP32 Spooky Maze Game](https://github.com/georgik/esp32-spooky-maze-game)
 
