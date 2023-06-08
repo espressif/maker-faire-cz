@@ -27,3 +27,5 @@ Maker Faire Prague, 2023 (Espressif presentation: hall C, stand 67)
 12. [M5 Stack CoreS3 Demo](https://github.com/m5stack/M5CoreS3/tree/main)
 
 13. [Arduino Memory Game](https://github.com/PilnyTomas/arduino-memory-game)
+
+14. [ESP32-Buddy Trolleybus Animation](https://github.com/georgik/esp32-buddy-rs/blob/main/examples/car.rs)
