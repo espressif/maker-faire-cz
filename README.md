@@ -1,6 +1,6 @@
 This repository hosts resources for all the demos presented by Espressif at Maker Faire.
 
-Maker Faire Prague, 2023
+Maker Faire Prague, 2023 (Espressif presentation: hall C, stand 67)
 ------------------------
 1. [ESP32-S3 Multiple LCD Demo](https://github.com/espzav/Multiple-LCD-Demo)
 
