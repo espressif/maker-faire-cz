@@ -48,7 +48,7 @@ Maker Faire Prague, 2023 (Espressif presentation: hall C, stand 67)
 ***
 
 9. [Plumerai People Detection on ESP32-S3](https://docs.plumerai.com/1.10/people_detection_esp32_s3_demo/)
-![Plumerai People Detection on ESP32-S3](imgs/9-Plumerai-People-Detection.png)
+![Plumerai People Detection on ESP32-S3](imgs/9-Plumerai-People-Detection.jpg)
 
 ***
 
