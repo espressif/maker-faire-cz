@@ -1,6 +1,6 @@
 This repository hosts resources for all the demos presented by Espressif at Maker Faire.
 
-Maker Faire Prague, 2025 (Espressif presentation: hall C, stand 70)
+Maker Faire Prague, 2025 (Espressif presentation: hall C, stand 3)
 | Demo | Photo |
 |------|-------|
 |1. [Open Tyrian](https://github.com/georgik/OpenTyrian)|![](imgs/1-open-tyrian.jpeg)|
@@ -9,7 +9,7 @@ Maker Faire Prague, 2025 (Espressif presentation: hall C, stand 70)
 |4. [Flow3r](https://git.flow3r.garden/flow3r)|![](imgs/4-flow3r.jpeg)|
 |5. [Time-O-Mat](https://github.com/vedatori/time-o-mat)|![](imgs/5-time-o-mat.jpeg)|
 |6. [Matter](https://github.com/espressif/esp-matter)|![](imgs/6-matter.jpeg)|
-|7. [Bruce](https://github.com/espressif/esp-box)|![](imgs/7-bruce.jpeg)|
+|7. [Bruce](https://bruce.computer)|![](imgs/7-bruce.jpeg)|
 |8. [ChatGPT](https://github.com/espressif/esp-box/tree/master/examples/chatgpt_demo)|![](imgs/8-chat-gpt.jpeg)|
 |9. [ESP32-S3-Box-3](https://github.com/espressif/esp-box/tree/master/examples/mp3_demo)|![](imgs/9-esps3-box.jpeg)|
 |10. [WLED](https://kno.wled.ge)|![](imgs/10-wled.jpeg)|
@@ -22,6 +22,7 @@ Maker Faire Prague, 2025 (Espressif presentation: hall C, stand 70)
 |17. [ESPot](https://github.com/Honza0297/espot)|![](imgs/17-espot.jpeg)|
 |18. [Tetris](https://github.com/Hahihula/no_std_tetris/tree/master/esp32_c3_example)|![](imgs/18-tetris.jpeg)|
 |19. [HOPE XV Electronic Badge](https://wiki.hope.net/index.php?title=HOPE_XV_Electronic_Badge#Open_Hardware)|![](imgs/19-hope-xv-badge.jpeg)|
-|20. [Minino](https://github.com/espressif/esp-box)|![](imgs/20-minino.jpeg)|
-|21. [Franziniho Wi-Fi](https://github.com/espressif/esp-box)|![](imgs/21-franziniho-wifi.jpeg)|
-|22. [Walter IoT](https://github.com/espressif/esp-box)|![](imgs/22-walter-iot.jpeg)|
+|20. [Minino](https://electroniccats.com/store/minino/)|![](imgs/20-minino.jpeg)|
+|21. [Franziniho Wi-Fi](https://github.com/Franzininho)|![](imgs/21-franziniho-wifi.jpeg)|
+|22. [Walter IoT](https://www.quickspot.io)|![](imgs/22-walter-iot.jpeg)|0
+|23. [ESP32-P4 Eye](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32p4/esp32-p4-eye/user_guide.html)|![](imgs/23-esp32-p4-eye.jpeg)|
