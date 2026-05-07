@@ -1,6 +1,6 @@
 This repository hosts resources for all the demos presented by Espressif at Maker Faire.
 
-[Maker Faire Prague, 2026](https://makerfaire.cz/projekt/espressif-systems-czech/) (Espressif presentation: hall C, stand 3)
+[Maker Faire Prague, 2026](https://makerfaire.cz/projekt/espressif-systems-czech/) (Espressif presentation: hall E, stand 100)
 
 | Demo                                                                                                                                                                                                                                                                                                                                                                 | Photo                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
