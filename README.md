@@ -2,6 +2,18 @@ This repository hosts resources for all the demos presented by Espressif at Make
 
 [Maker Faire Prague, 2026](https://makerfaire.cz/projekt/espressif-systems-czech/) (Espressif presentation: hall E, stand 100)
 
+## Recommended resources 
+
+- [Espressif Developer Portal](https://developer.espressif.com/)
+- [ESP-IDF ESP32-C6 Workshop (English)](https://developer.espressif.com/workshops/esp-idf-with-esp32-c6/)
+- [ESP-IDF ESP32-C6 Workshop (Česky)](https://developer.espressif.com/cs/workshops/esp-idf-with-esp32-c6/)
+- [EIM Installer of ESP-IDF 6.x](https://dl.espressif.com/dl/eim/)
+- [Wokwi Simulator](https://wokwi.com/esp32)
+  - [VS Code Extension](https://docs.wokwi.com/vscode/getting-started)
+  - [CLion Extension](https://plugins.jetbrains.com/plugin/23826-wokwi-simulator)
+
+## Demos
+
 | Demo                                                                                                                                                                                                                                                                                                                                                                 | Photo                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
 | [MultiPlayer OpenTyrian - ESP32-P4](https://github.com/georgik/OpenTyrian) with USB Keyboard and Mouse support, rendering based on [SDL3](https://components.espressif.com/components/georgik/sdl/)                                                                                                                                                                  | ![](imgs/esp32-p4-open-tyrian.jpg)       |
@@ -31,3 +43,8 @@ This repository hosts resources for all the demos presented by Espressif at Make
 | [Franziniho Wi-Fi](https://github.com/Franzininho)                                                                                                                                                                                                                                                                                                                   | ![](imgs/21-franziniho-wifi.jpeg)        |
 | [Walter IoT](https://www.quickspot.io)                                                                                                                                                                                                                                                                                                                               | ![](imgs/22-walter-iot.jpeg)             |0
 | [ESP32-P4 Eye](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32p4/esp32-p4-eye/user_guide.html)                                                                                                                                                                                                                                                      | ![](imgs/23-esp32-p4-eye.jpeg)           |
+
+## Contribution
+
+Do you have interesting demo, that you'd like to showcase to community? Let us know.
+
